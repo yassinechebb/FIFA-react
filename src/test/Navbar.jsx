@@ -46,11 +46,11 @@ function Navbar() {
           className="navbar-brand"
           rel="nofollow"
           target="_blank"
-          href="http://scadonsak.com/7bF"
+          href="https://www.fifa.com/fr"
           style={{ textTransform: "uppercase" }}
-        >
+        >   
           {" "}
-          NUSASATU.COM
+          FIFA.COM
         </a>
         <button
           className="navbar-toggler"
@@ -106,6 +106,7 @@ function Navbar() {
       </div>
     </nav>
   </div>
+  
     </div>
   )
 }
